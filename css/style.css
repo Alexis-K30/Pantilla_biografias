@@ -13,6 +13,10 @@ body {
     background-color: #8a817c;
 }
 
+p{
+    text-align: justify;
+}
+
 nav {
     background-color: #e0afa0;
 }
@@ -62,6 +66,10 @@ section h1, section p.Datos{
     position: relative;
     left: 100px;
     margin-right: 15em;
+}
+
+section p.Datos{
+    padding-bottom: 23px;
 }
 
 #img_banner {
